@@ -1,0 +1,14 @@
+D:\Codes\Antigravity Practice\ACUsageTracker\bin\Debug\net9.0-windows\ACUsageTracker.exe
+D:\Codes\Antigravity Practice\ACUsageTracker\bin\Debug\net9.0-windows\ACUsageTracker.deps.json
+D:\Codes\Antigravity Practice\ACUsageTracker\bin\Debug\net9.0-windows\ACUsageTracker.runtimeconfig.json
+D:\Codes\Antigravity Practice\ACUsageTracker\bin\Debug\net9.0-windows\ACUsageTracker.dll
+D:\Codes\Antigravity Practice\ACUsageTracker\bin\Debug\net9.0-windows\ACUsageTracker.pdb
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.AssemblyInfoInputs.cache
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.AssemblyInfo.cs
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.csproj.CoreCompileInputs.cache
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.dll
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\refint\ACUsageTracker.dll
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.pdb
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.genruntimeconfig.cache
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ref\ACUsageTracker.dll
