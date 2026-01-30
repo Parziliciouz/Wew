@@ -12,3 +12,4 @@ D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\refint\ACU
 D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.pdb
 D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.genruntimeconfig.cache
 D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ref\ACUsageTracker.dll
+D:\Codes\Antigravity Practice\ACUsageTracker\obj\Debug\net9.0-windows\ACUsageTracker.sourcelink.json

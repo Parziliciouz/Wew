@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ACUsageTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bec9c34907f8f23d777565c00c4eb88a89fc8c19")]
 [assembly: System.Reflection.AssemblyProductAttribute("ACUsageTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ACUsageTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
